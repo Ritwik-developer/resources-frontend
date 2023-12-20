@@ -1,4 +1,4 @@
-# resources-frontent
+# resources-frontend
 ## interview
              -https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP 
             -https://javascript.info/
