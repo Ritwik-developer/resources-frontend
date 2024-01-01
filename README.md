@@ -16,3 +16,7 @@
 ######JS/React Interview Practice - Output, Implementation, Machine Coding, UI Tech - Big
 FrontEnd Dev
 ### https://github.com/sadanandpai/frontend-learning-kit
+## imp 
+https://www.linkedin.com/posts/sadanandpai_javascript-javascriptdeveloper-javascriptdevelopers-activity-6735577967369551873-9Bh-?utm_source=share&utm_medium=member_desktop
+https://github.com/sadanandpai/javascript-code-challenges
+
